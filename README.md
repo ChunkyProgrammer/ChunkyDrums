@@ -1,2 +1,2 @@
 # ChunkyDrums
-## A very basic drum sequencer built to run in a browser
+## A very basic drum sequencer designed to ran in a browser
