@@ -11,14 +11,10 @@
   <input type="number" placeholder='Enter Steps' id='stepam'>
   <button onclick="createSequenceGUI()">Create Sequence</button>
   <p>
-  <div id='_hh'>HH</div>
-  <p>
-  <div id='_sd'>SD</div>
-  <p>
-  <div id="_bd">BD</div>
-  <p>
-  <div id="_ride">RD</div>
-  <p>
+  <?php
+    require_once 'loadSounds.php';
+  ?>
+
   <input type="number" placeholder='Enter Steps per second' id='sps'>
   <button id="play">Play</button>
   <script src="index.js">
