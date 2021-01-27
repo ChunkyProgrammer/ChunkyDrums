@@ -1,0 +1,10 @@
+body {
+    background-color: green;
+}
+div {
+    background-color: red;
+}
+.sequencerItem {
+    height: 50px;
+    width: 25px;
+}
